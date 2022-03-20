@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.wrapper {
+    justify-content: center;
+    display: flex;
+    background-color:#e4e9ed;
+}
+
+.main {
+    border-radius: 10px;
+    width: 700px;
+    background-color: #eff3f6;
+}
+.wrap{
+    margin-left: 13px;
+    margin-right: 13px;
+}
+.title {
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.descr {
+    color: gray;
+    font-family:'Courier New', Courier, monospace
+}
+.intro {
+    font-size: 18px;
+    margin-top: 50px;
+}
+.learn {
+    margin-top: 50px;
+}
+.intro2 {
+    margin-top: 6px;
+}
+.rec {
+    margin-top: 30px;
+   font-size: 25px;
+}
+
+.title1 {
+    font-size: 22px;
+    margin-top: 80px;
+}
+.titlez {
+    margin-top: 25px;
+}
+.description {
+    margin-top: 15px;
+    font-size: 18px;
+}
+.premium {
+    margin-top: 40px;
+}
+.btnwrapp {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 22px 0;
+    background-color: black;
+    display: block;
+    width: 300px;
+    transition: all 1s ease;
+}
+
+.btn:hover {
+    transform: scale(1.2);
+}
+
+.price {
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.rdy {
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.study {
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.enjoy {
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.end {
+    margin-top: 50px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
